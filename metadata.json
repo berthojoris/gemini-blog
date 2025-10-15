@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Blog Platform",
+  "description": "A modern, full-featured blog application built with React, TypeScript, and Tailwind CSS. It includes a public-facing blog, user authentication, and a comprehensive admin dashboard for managing posts, comments, and theme settings.",
+  "requestFramePermissions": []
+}
